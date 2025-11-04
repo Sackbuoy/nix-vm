@@ -3,7 +3,7 @@ A version manager using nix
 
 install like so
 ```
-nix profile install github:sackbuoy/nix-vim
+nix profile install github:sackbuoy/nix-vm
 
 ```
 
